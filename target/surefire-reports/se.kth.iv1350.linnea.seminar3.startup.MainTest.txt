@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: se.kth.iv1350.linnea.seminar3.startup.MainTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0.06 s <<< FAILURE! - in se.kth.iv1350.linnea.seminar3.startup.MainTest
+testMainPrintsReceipt  Time elapsed: 0.011 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Output does not contain total price. ==> expected: <true> but was: <false>
+	at se.kth.iv1350.linnea.seminar3.startup.MainTest.testMainPrintsReceipt(MainTest.java:118)
+
+testMainPrintsChange  Time elapsed: 0.005 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Output does not contain change to give to customer. ==> expected: <true> but was: <false>
+	at se.kth.iv1350.linnea.seminar3.startup.MainTest.testMainPrintsChange(MainTest.java:131)
+

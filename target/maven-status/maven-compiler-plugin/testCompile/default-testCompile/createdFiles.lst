@@ -1,0 +1,10 @@
+se\kth\iv1350\linnea\seminar3\integration\ExternalInventorySystemTest.class
+se\kth\iv1350\linnea\seminar3\model\CashPaymentTest.class
+se\kth\iv1350\linnea\seminar3\model\CashRegisterTest.class
+se\kth\iv1350\linnea\seminar3\controller\ControllerTest.class
+se\kth\iv1350\linnea\seminar3\model\ItemDTOTest.class
+se\kth\iv1350\linnea\seminar3\model\ReceiptTest.class
+se\kth\iv1350\linnea\seminar3\model\SaleTest.class
+se\kth\iv1350\linnea\seminar3\model\LineItemTest.class
+se\kth\iv1350\linnea\seminar3\model\AmountTest.class
+se\kth\iv1350\linnea\seminar3\integration\PrinterTest.class

@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: se.kth.iv1350.linnea.seminar3.view.ViewTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0.015 s <<< FAILURE! - in se.kth.iv1350.linnea.seminar3.view.ViewTest
+testRunFakeExecutionChange  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Output does not contain change to give to customer. ==> expected: <true> but was: <false>
+	at se.kth.iv1350.linnea.seminar3.view.ViewTest.testRunFakeExecutionChange(ViewTest.java:135)
+
+testRunFakeExecutionReceipt  Time elapsed: 0.01 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Output does not contain total price. ==> expected: <true> but was: <false>
+	at se.kth.iv1350.linnea.seminar3.view.ViewTest.testRunFakeExecutionReceipt(ViewTest.java:123)
+
