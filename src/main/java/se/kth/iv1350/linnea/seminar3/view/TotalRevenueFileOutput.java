@@ -27,7 +27,8 @@ public class TotalRevenueFileOutput extends TotalRevenue {
      */
     @Override
     protected void handleErrors(Exception e){
-        System.out.println("Cannot print to file.");
+        ErrorMessageHandler errorMessageHandler = new ErrorMessageHandler();
+        errorMessageHandler.showErrorMsg("Cannot print to file.");
     }
 
 }
