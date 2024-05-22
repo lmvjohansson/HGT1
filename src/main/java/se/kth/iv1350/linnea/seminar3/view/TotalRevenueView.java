@@ -21,7 +21,7 @@ public class TotalRevenueView extends TotalRevenue {
     @Override
     protected void handleErrors(Exception e){
         ErrorMessageHandler errorMessageHandler = new ErrorMessageHandler();
-        errorMessageHandler.showErrorMsg("Cannot print to file.");
+        errorMessageHandler.showErrorMsg("Cannot print to console.");
     }
         
 
